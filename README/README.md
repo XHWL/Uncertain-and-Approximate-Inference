@@ -1,6 +1,6 @@
 # README for project 3 CSC442
 
-    Yubao Liu, Siqi Xiong, Xue Li
+    Yubao Liu
     Nov 23, 2018
 
 
